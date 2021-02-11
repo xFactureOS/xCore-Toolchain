@@ -1,0 +1,6 @@
+pclass Activity {
+def main() {
+text = "Hello World!";
+print text;
+}
+}
